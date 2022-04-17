@@ -14,6 +14,7 @@ K-Nearest Neighbor.
 K-Mean Clustering.
 Neural Network.
 
+
 And with Datasets applied for Logistic is famous EMNIST-letters Dataset.
 
 Here, The technologies used are:
@@ -23,6 +24,8 @@ Numpy.
 Pandas.
 Matplotlib.
 And IDE I use is Google Colab to code.
+
+As such I learned alot from this project and its a very nice opportunity to be a part of this and I constantly try and will improve myself better and aims to become a best Machine Learning Engineer. So as my next goal is to learn some deep learning with pytorch and also about implementation of tensorflow and much more like keras ETC.
 
 Thankyou for reading this ReadMe.
 Have a Nice Day!
